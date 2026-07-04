@@ -52,11 +52,13 @@ streamlit run app.py
 
 ## Project Structure
 
+```
 ├── app.py              # Streamlit web app
 ├── model.pkl           # Trained Naive Bayes classifier
 ├── vectorizer.pkl      # Fitted TF-IDF vectorizer
 ├── requirements.txt    # Dependencies
-└── notebook/           # EDA and model comparison notebook
+└── notebook/            # EDA and model comparison notebook
+```
 
 ## Author
 
